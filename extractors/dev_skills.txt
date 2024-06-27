@@ -1,0 +1,56 @@
+Artificial Intelligence
+AI
+Machine Learning
+Data Science
+Word
+Excel
+English
+HTML
+CSS
+JavaScript
+Python
+Java
+C
+C++
+PHP
+SQL
+NoSQL
+Django
+Flask
+Node.js
+React
+Angular
+Vue.js
+Ruby
+Ruby on Rails
+Laravel
+Spring Boot
+ASP.NET
+jQuery
+Bootstrap
+Sass
+Less
+Webpack
+Gulp
+Grunt
+Babel
+ESLint
+Prettier
+Jest
+Visual Studio Code
+TensorFlow
+Keras
+PyTorch
+Scikit-Learn
+Pandas
+NumPy
+Matplotlib
+Seaborn
+Plotly
+Bokeh
+D3.js
+Tableau
+Power BI
+Selenium
+Firebase
+Oracle

@@ -1,0 +1,56 @@
+HTML
+CSS
+JavaScript
+Python
+Java
+C
+C++
+PHP
+SQL
+Ruby
+Swift
+Objective-C
+Android
+iOS
+Git
+AWS
+WordPress
+Drupal
+jQuery
+Bootstrap
+MySQL
+MongoDB
+Docker
+Kubernetes
+Jenkins
+Ansible
+Puppet
+Chef
+Terraform
+Linux
+Unix
+Windows
+Mac
+Photoshop
+Illustrator
+Figma
+Sketch
+Adobe XD
+InVision
+Zeplin
+After Effects
+Premiere Pro
+Blender
+Maya
+Unity
+Unreal Engine
+AutoCAD
+SolidWorks
+CATIA
+NX
+Fusion 360
+Revit
+Archicad
+Rhino
+Grasshopper
+3ds Max
