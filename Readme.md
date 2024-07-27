@@ -10,10 +10,6 @@ The Resume and Email Analyzer is a GUI application built with Python's Tkinter l
 - **Named Entity Recognition (NER)**: Extract and recognize entities like names, phone numbers, and skills from the text.
 - **User-Friendly Interface**: Intuitive GUI built with Tkinter for ease of use.
 
-## Screenshots
-
-(Include screenshots of your application here)
-
 ## Installation
 
 1. **Clone the Repository**:
