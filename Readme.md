@@ -14,8 +14,8 @@ The Resume and Email Analyzer is a GUI application built with Python's Tkinter l
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/resume-email-analyzer.git
-   cd resume-email-analyzer
+   git clone https://github.com/sayakghorai34/NLP_CV_Parser.git
+   cd NLP_CV_Parser
    ```
 
 2. **Create and Activate a Virtual Environment**:
