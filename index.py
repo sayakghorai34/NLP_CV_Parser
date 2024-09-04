@@ -27,24 +27,24 @@ def process(initial_filepath, root):
 
     result_window = tk.Tk()
     result_window.title("Extracted Information")
-    result_window.geometry("800x300")
+    result_window.geometry("600x350")
 
-    tk.Label(result_window, text="Extracted Information", font=("Arial", 20)).grid(row=0, column=1, pady=10)
+    tk.Label(result_window, text="Extracted Information", font=("Arial", 20)).grid(row=0, column=0, columnspan=2, pady=10)
 
     tk.Label(result_window, text="Name \t: ").grid(row=1, column=0, sticky="w", padx=10)
-    tk.Label(result_window, text=", ".join(name_information) if name_information else "N/A").grid(row=1, column=1, sticky="w", padx=10)
+    tk.Label(result_window, text=", ".join(name_information) if name_information else "N/A", wraplength=450).grid(row=1, column=1, sticky="w", padx=10)
 
     tk.Label(result_window, text="Education\t: ").grid(row=2, column=0, sticky="w", padx=10)
-    tk.Label(result_window, text=", ".join(education_information) if education_information else "N/A").grid(row=2, column=1, sticky="w", padx=10)
+    tk.Label(result_window, text=", ".join(education_information) if education_information else "N/A", wraplength=450).grid(row=2, column=1, sticky="w", padx=10)
 
     tk.Label(result_window, text="Phone\t: ").grid(row=3, column=0, sticky="w", padx=10)
-    tk.Label(result_window, text=phone if phone else "N/A").grid(row=3, column=1, sticky="w", padx=10)
+    tk.Label(result_window, text=phone if phone else "N/A", wraplength=450).grid(row=3, column=1, sticky="w", padx=10)
 
     tk.Label(result_window, text="Email\t: ").grid(row=4, column=0, sticky="w", padx=10)
-    tk.Label(result_window, text=", ".join(email) if email else "N/A").grid(row=4, column=1, sticky="w", padx=10)
+    tk.Label(result_window, text=", ".join(email) if email else "N/A", wraplength=450).grid(row=4, column=1, sticky="w", padx=10)
 
     tk.Label(result_window, text="Skills\t: ").grid(row=5, column=0, sticky="w", padx=10)
-    tk.Label(result_window, text=", ".join(skills) if skills else "N/A").grid(row=5, column=1, sticky="w", padx=10)
+    tk.Label(result_window, text=", ".join(skills) if skills else "N/A", wraplength=450).grid(row=5, column=1, sticky="w", padx=10)
 
 if __name__ == '__main__':
     width = 600
